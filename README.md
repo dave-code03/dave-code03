@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Dave Occeant
 
-<!--
-**dave-code03/dave-code03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Front-End Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and user-friendly websites using HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently improving my Front-End Development skills
+- 💻 Passionate about creating clean and responsive websites
+- 📚 Learning every day to become a professional developer
+- 🎯 Goal: Work with international clients and build high-quality web projects
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Design
+
+---
+
+## 📂 Featured Project
+
+🔹 Portfolio Website
+
+A personal portfolio showcasing my skills and projects.
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/dave-code03
+- LinkedIn: (Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile!
