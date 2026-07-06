@@ -46,6 +46,8 @@ A personal portfolio showcasing my skills and projects.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-code03&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dave-code03&theme=tokyonight)
+
 ---
 
 ## 📫 Connect with Me
@@ -56,3 +58,5 @@ A personal portfolio showcasing my skills and projects.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=dave-code03&color=blue)
