@@ -40,6 +40,14 @@ A personal portfolio showcasing my skills and projects.
 
 ---
 
+## 📊 GitHub Stats
+
+![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-code03&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/dave-code03
