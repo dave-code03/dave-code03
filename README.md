@@ -40,8 +40,10 @@ I build modern, responsive and user-friendly websites using HTML, CSS and JavaSc
 
 🔹 Portfolio Website
 
-A personal portfolio showcasing my skills and projects.
+Responsive portfolio built with HTML, CSS and JavaScript.
 
+GitHub Repository:
+https://github.com/dave-code03/portfolio-dave
 ---
 
 ## 📊 GitHub Stats
@@ -57,8 +59,7 @@ A personal portfolio showcasing my skills and projects.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/dave-code03
-- LinkedIn: (Coming Soon)
-
+- LinkedIn: https://www.linkedin.com/in/dave-occeant-40a382420
 ---
 
 ⭐ Thanks for visiting my profile!
