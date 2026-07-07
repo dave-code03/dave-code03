@@ -6,6 +6,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Responsive+Websites" />
+</p>
+
 ## 💻 Front-End Developer
 
 I build modern, responsive and user-friendly websites using HTML, CSS and JavaScript.
