@@ -52,6 +52,10 @@ A personal portfolio showcasing my skills and projects.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dave-code03&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 📫 Connect with Me
