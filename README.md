@@ -107,6 +107,14 @@ https://github.com/dave-code03/portfolio-dave
 
 </p>
 
+---
+
+## 💡 Developer Quote
+
+> "Every line of code is one step closer to my dreams."
+>
+> — Dave Occeant
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -124,9 +132,14 @@ https://github.com/dave-code03/portfolio-dave
 
 ## ☕ Support Me
 
-If you like my work, consider giving a ⭐ to my repositories.
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
 
 Thanks for your support! ❤️
 
+</div>
 
-⭐ Thanks for visiting my profile!
+---
