@@ -1,3 +1,21 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dave%20Occeant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20HTML%20CSS%20JavaScript&descAlignY=58"/>
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=dave-code03&label=Profile%20Views&color=2563eb&style=for-the-badge)
+
+</p>
+
+<h3 align="center">
+
+Building modern, responsive and user-friendly websites.
+
+</h3>
+
 # Hi 👋, I'm Dave Occeant
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,5 +102,3 @@ https://github.com/dave-code03/portfolio-dave
 ---
 
 ⭐ Thanks for visiting my profile!
-
-![](https://komarev.com/ghpvc/?username=dave-code03&color=blue)
