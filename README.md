@@ -48,20 +48,17 @@ https://github.com/dave-code03/portfolio-dave
 
 ## 📊 GitHub Stats
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight)
+![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-code03&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-code03&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dave-code03&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dave-code03&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
 ---
 
 ## 📈 Contribution Graph
