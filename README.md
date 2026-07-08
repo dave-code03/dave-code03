@@ -54,6 +54,26 @@ I build modern, responsive and user-friendly websites using HTML, CSS and JavaSc
 
 ---
 
+## 📈 Current Focus
+
+- 🚀 Building modern Front-End projects
+- 🌍 Looking for remote opportunities
+- 📚 Learning advanced JavaScript
+- ⚡ Improving UI/UX design skills
+- 🔥 Coding every day
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master HTML & CSS
+- 🔄 Become highly skilled in JavaScript
+- 🌐 Build 10+ responsive websites
+- 💼 Get my first international client
+- ⭐ Reach 1000+ GitHub contributions
+
+---
+
 ## 📂 Featured Project
 
 🔹 Portfolio Website
@@ -99,6 +119,14 @@ https://github.com/dave-code03/portfolio-dave
 
 - GitHub: https://github.com/dave-code03
 - LinkedIn: https://www.linkedin.com/in/dave-occeant-40a382420
+
 ---
+
+## ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Thanks for your support! ❤️
+
 
 ⭐ Thanks for visiting my profile!
