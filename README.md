@@ -54,7 +54,31 @@ https://github.com/dave-code03/portfolio-dave
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dave-code03&theme=tokyonight)
 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dave-code03&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+[![Dave's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-code03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dave-code03/dave-code03/output/github-contribution-grid-snake.svg">
+
+</p>
 
 ## 📫 Connect with Me
 
