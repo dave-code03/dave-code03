@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Building+Real-World+Software;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Building+Real-World+Software"/>
 </p>
 
 # 👋 Hi, I'm Dave Occeant
