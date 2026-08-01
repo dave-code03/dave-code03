@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dave%20Occeant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20HTML%20CSS%20JavaScript&descAlignY=58"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dave%20Occeant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software.%20Solving%20problems.%20Growing%20every%20day.&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -11,111 +9,106 @@
 </p>
 
 <h3 align="center">
-
-Building modern, responsive and user-friendly websites.
-
+Building software. Solving problems. Growing every day.
 </h3>
 
-# Hi 👋, I'm Dave Occeant
+# 👋 Hi, I'm Dave Occeant
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Software Engineer in Training • AI & Full-Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Responsive+Websites" />
-</p>
+I am building a strong foundation in **Software Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
 
-## 💻 Front-End Developer
+My GitHub documents my journey of learning, building real-world projects, solving practical problems, and continuously improving as an engineer.
 
-I build modern, responsive and user-friendly websites using HTML, CSS and JavaScript.
+I believe that great software is built through discipline, consistency, curiosity, and continuous learning.
 
 ---
 
-## 🚀 About Me
+# 🚀 Mission
 
-- 🌱 Currently improving my Front-End Development skills
-- 💻 Passionate about creating clean and responsive websites
-- 📚 Learning every day to become a professional developer
-- 🎯 Goal: Work with international clients and build high-quality web projects
+My mission is to design and build software that creates real value.
+
+Every project on this profile is another step toward becoming a professional software engineer capable of building useful products for people around the world.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Engineering Philosophy
 
-- HTML5
-- CSS3
+- Build before perfection.
+- Learn in public.
+- Solve real problems.
+- Write clean and maintainable code.
+- Improve every single day.
+
+---
+
+# 📚 Mission Zero Academy Roadmap
+
+Currently studying and building skills in:
+
+- Software Engineering
+- Git & GitHub
+- Python
 - JavaScript
+- Artificial Intelligence
+- System Design
+- Open Source
+- Entrepreneurship
+
+---
+
+# 🛠 Core Technologies
+
+Learning and working with:
+
 - Git
 - GitHub
-- Responsive Design
+- Python
+- JavaScript
+- HTML
+- CSS
+- Linux
+- SQL
 
 ---
 
-## 📈 Current Focus
+# 🎯 Current Mission
 
-- 🚀 Building modern Front-End projects
-- 🌍 Looking for remote opportunities
-- 📚 Learning advanced JavaScript
-- ⚡ Improving UI/UX design skills
-- 🔥 Coding every day
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master HTML & CSS
-- 🔄 Become highly skilled in JavaScript
-- 🌐 Build 10+ responsive websites
-- 💼 Get my first international client
-- ⭐ Reach 1000+ GitHub contributions
+- Build real-world software.
+- Strengthen engineering fundamentals.
+- Publish quality open-source projects.
+- Grow consistently through Mission Zero Academy.
 
 ---
 
-## 📂 Featured Project
+# 📊 GitHub Analytics
 
-🔹 Portfolio Website
-
-Responsive portfolio built with HTML, CSS and JavaScript.
-
-GitHub Repository:
-https://github.com/dave-code03/portfolio-dave
----
-
-## 📊 GitHub Stats
-
-![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-code03&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-code03&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dave-code03&theme=tokyonight)
 
 
-## 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dave-code03&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-[![Dave's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-code03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-code03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
 ---
 
-## 💡 Developer Quote
-
-> "Every line of code is one step closer to my dreams."
->
-> — Dave Occeant
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -123,23 +116,29 @@ https://github.com/dave-code03/portfolio-dave
 
 </p>
 
-## 📫 Connect with Me
+---
+
+# 💬 Personal Motto
+
+> "Building software is a lifelong journey of learning, discipline and impact."
+
+**— DO**
+
+---
+
+# 📫 Connect with Me
 
 - GitHub: https://github.com/dave-code03
 - LinkedIn: https://www.linkedin.com/in/dave-occeant-40a382420
 
 ---
 
-## ☕ Support Me
+<p align="center">
 
-<div align="center">
+### Thank you for visiting my profile.
 
-### 🚀 Thanks for visiting my profile!
+Building software. Solving problems. Growing every day.
 
-If you like my work, don't forget to ⭐ my repositories.
+**DO**
 
-Thanks for your support! ❤️
-
-</div>
-
----
+</p>
