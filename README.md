@@ -14,13 +14,11 @@ Building software. Solving problems. Growing every day.
 
 # 👋 Hi, I'm Dave Occeant
 
-## Software Engineer in Training • AI & Full-Stack Developer
+## Software Engineer • AI & Full-Stack Developer
 
-I am building a strong foundation in **Software Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
+I build software with a focus on solving real-world problems through clean engineering, continuous learning, and practical projects.
 
-My GitHub documents my journey of learning, building real-world projects, solving practical problems, and continuously improving as an engineer.
-
-I believe that great software is built through discipline, consistency, curiosity, and continuous learning.
+My GitHub showcases the projects I build, the technologies I work with, and the solutions I'm creating.
 
 ---
 
@@ -28,38 +26,34 @@ I believe that great software is built through discipline, consistency, curiosit
 
 My mission is to design and build software that creates real value.
 
-Every project on this profile is another step toward becoming a professional software engineer capable of building useful products for people around the world.
+Every project on this profile reflects my commitment to building reliable software, solving practical problems, and creating technology that delivers value.
 
 ---
 
 # 🧠 Engineering Philosophy
 
 - Build before perfection.
-- Learn in public.
 - Solve real problems.
 - Write clean and maintainable code.
-- Improve every single day.
-
+- Never stop improving.
+- Technology should create value.
 ---
 
-# 📚 Mission Zero Academy Roadmap
+# 🗺️ Mission Zero Roadmap
 
-Currently studying and building skills in:
+Building a long-term engineering journey focused on:
 
-- Software Engineering
-- Git & GitHub
-- Python
-- JavaScript
-- Artificial Intelligence
-- System Design
-- Open Source
-- Entrepreneurship
-
+- Building useful software
+- Solving real-world problems
+- Creating AI-powered products
+- Contributing to Open Source
+- Growing as a Software Engineer
+- Building technology businesses
 ---
 
 # 🛠 Core Technologies
 
-Learning and working with:
+Current Engineering Stack
 
 - Git
 - GitHub
@@ -77,8 +71,7 @@ Learning and working with:
 - Build real-world software.
 - Strengthen engineering fundamentals.
 - Publish quality open-source projects.
-- Grow consistently through Mission Zero Academy.
-
+- Build software that creates real value.
 ---
 
 # 📊 GitHub Analytics
@@ -120,7 +113,7 @@ Learning and working with:
 
 # 💬 Personal Motto
 
-> "Building software is a lifelong journey of learning, discipline and impact."
+> Building software is a lifelong journey of learning, discipline and impact.
 
 **— DO**
 
@@ -132,13 +125,12 @@ Learning and working with:
 - LinkedIn: https://www.linkedin.com/in/dave-occeant-40a382420
 
 ---
-
 <p align="center">
 
-### Thank you for visiting my profile.
+Thanks for visiting my GitHub profile.
 
-Building software. Solving problems. Growing every day.
+See you in the next commit.
 
-**DO**
+**— DO**
 
 </p>
